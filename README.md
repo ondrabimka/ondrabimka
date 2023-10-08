@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ondrabimka
-- 👀 I’m interested in RNNs and swift UI
-- 🌱 I’m currently learning.... :D
+- 👀 I’m interested in ML/AI
+- 🌱 Data Scientist
 - 📫 How to reach me: ondrabimka@icloud.com
 
 <!---
