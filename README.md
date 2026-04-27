@@ -2,6 +2,7 @@
 - 👀 I’m interested in ML/AI
 - 🌱 Data Scientist
 - 📫 How to reach me: ondrabimka@icloud.com
+- https://www.ondrejbimka.com/
 
 <!---
 ondrabimka/ondrabimka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
